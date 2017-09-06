@@ -19,7 +19,7 @@
     - ex) NotoSansKR:n1,n2,n3 : NotoSansKR 폰트의 굵기가100, 200, 300인 폰트를 로딩하고 싶어요.
 - 사용 예시
 ```
-<script src="https://cdn.jsdelivr.net/webfontloader/latest/webfontloader.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/webfontloader@latest/webfontloader.js"></script>
 <script src="https://example.com/path/to/NotoSansKR-all.js"
         id="NotoSansKR-font-config"
         data-font-config="NotoSansKR:n4,n7"
